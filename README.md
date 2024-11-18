@@ -7,3 +7,9 @@ A simple autoclicker made for automating repetitive tasks in gaming.
 - Mouse Button: Select either left or right mouse button for clicks.
 - Keyboard Shortcuts: Use F1/F6 to start and F2/F7 to stop the autoclicker.
 - Adjustable Timing: Set specific times for click intervals, with checks to prevent unrealistic settings.
+
+### Usage
+1. Launch the application.
+2. Set your desired click interval, click type, and button.
+3. Press Start to begin autoclicking, or use F1/F6 to start it.
+4. Press Stop to halt the autoclicker, or use F2/F7 to stop it.
