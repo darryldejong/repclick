@@ -3,11 +3,12 @@ import tkinter as tk
 from tkinter import ttk
 import threading
 import time
+import os
 
 class AutoClickerApp:
     def __init__(self, root):
         self.root = root
-        self.root.iconbitmap("favicon.ico")
+        self.root.iconbitmap(os.path.join('images', 'favicon.ico'))
         self.root.title("Auto Clicker - psz")
         self.root.geometry("380x150")
         self.root.resizable(False, False)
