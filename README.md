@@ -1,5 +1,7 @@
 # Repclick
-A simple autoclicker made for automating repetitive tasks in gaming.
+A simple autoclicker made for automating repetitive tasks in gaming (my in-game name is 'psz').
+
+![Readmeimage](images/Readme.png)
 
 ## Features
 - Customizable Interval: Set the interval for automatic clicks in milliseconds, seconds, or minutes.
