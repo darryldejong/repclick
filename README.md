@@ -23,6 +23,6 @@ A simple autoclicker made for automating repetitive tasks in gaming (my in-game 
 ---
 
 #### False Positive Warning
-The EXE file may be flagged by antivirus software as a potential threat due to how new executables are sometimes detected.
+The EXE file may be flagged by antivirus software as a potential threat because new executable files are sometimes detected as suspicious. Additionally, autoclickers often modify keybinds or simulate input patterns, which can resemble behaviors typically associated with malicious software.
 
 However, the script is safe and contains no malicious code. You can verify this by reviewing the source code.
